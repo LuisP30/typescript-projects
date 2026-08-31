@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/LuisP30/typescript-projects#readme",
   "devDependencies": {
+    "tsx": "^4.23.13",
     "typescript": "^7.0.2"
   }
 }
